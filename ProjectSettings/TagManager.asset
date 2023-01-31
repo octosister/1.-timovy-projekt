@@ -12,6 +12,7 @@ TagManager:
   - destroyGameObject1
   - moveRight
   - moveLeft
+  - uhorka proste
   layers:
   - Default
   - TransparentFX
