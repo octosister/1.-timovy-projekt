@@ -8,6 +8,10 @@ TagManager:
   - Vtak
   - destroyGameObject
   - stena
+  - Undefined
+  - destroyGameObject1
+  - moveRight
+  - moveLeft
   layers:
   - Default
   - TransparentFX
