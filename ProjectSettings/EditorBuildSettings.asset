@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DominikScena.unity
     guid: 1d89bc45693329f4aadcc20afc03ebc6
+  - enabled: 1
+    path: Assets/Scenes/deathScreen.unity
+    guid: ac99021f62ca12f45acdc7dc4a17fc67
   m_configObjects: {}

@@ -13,6 +13,7 @@ TagManager:
   - moveRight
   - moveLeft
   - uhorka proste
+  - Ground
   layers:
   - Default
   - TransparentFX
